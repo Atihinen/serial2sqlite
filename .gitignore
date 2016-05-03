@@ -63,3 +63,7 @@ target/
 
 #Idea
 .idea
+
+#Random stuff
+*.html
+*.db
