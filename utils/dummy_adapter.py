@@ -1,7 +1,7 @@
 from random import randint
 class DummyAdapter(object):
 
-    def __init__(self):
+    def __init__(self, *args):
         pass
 
     def read_int(self):
